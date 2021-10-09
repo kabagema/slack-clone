@@ -137,4 +137,4 @@ const SidebarInfo = styled.div`
 		color: green;
 	}
 `;
-// https://youtu.be/QiTq5WrWoJw?t=5830
+// https://youtu.be/QiTq5WrWoJw?t=6450
